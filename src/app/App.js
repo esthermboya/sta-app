@@ -24,7 +24,7 @@ function App() {
     <>
       <GlobalStyles />
         <AppContext.Provider value={{training, setTraining}}>
-          <Router basename='https://esthermboya.github.io/sta-app'>
+          <Router basename='https://esthermboya.github.io/'>
             <Routes>
               <Route path='/' element={<Layout pageMinimumHeight={windowHeight}/>}>
                 <Route index element={<Home window/>}/>
