@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.04015927.js",
-    "static/js/787.f24a154a.chunk.js": "/static/js/787.f24a154a.chunk.js",
-    "static/media/University-of-Sheffield-logo.png": "/static/media/University-of-Sheffield-logo.0a82c51f2a689a8f7c9c.png",
-    "static/media/Sheffield-Robotics-logo.png": "/static/media/Sheffield-Robotics-logo.8b4998d291b3f1c402d3.png",
-    "index.html": "/index.html",
-    "main.04015927.js.map": "/static/js/main.04015927.js.map",
-    "787.f24a154a.chunk.js.map": "/static/js/787.f24a154a.chunk.js.map"
+    "main.js": "/sta-app/static/js/main.430c93c4.js",
+    "static/js/787.f24a154a.chunk.js": "/sta-app/static/js/787.f24a154a.chunk.js",
+    "static/media/University-of-Sheffield-logo.png": "/sta-app/static/media/University-of-Sheffield-logo.0a82c51f2a689a8f7c9c.png",
+    "static/media/Sheffield-Robotics-logo.png": "/sta-app/static/media/Sheffield-Robotics-logo.8b4998d291b3f1c402d3.png",
+    "index.html": "/sta-app/index.html",
+    "main.430c93c4.js.map": "/sta-app/static/js/main.430c93c4.js.map",
+    "787.f24a154a.chunk.js.map": "/sta-app/static/js/787.f24a154a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.04015927.js"
+    "static/js/main.430c93c4.js"
   ]
 }
